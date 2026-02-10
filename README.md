@@ -21,7 +21,7 @@ Perfect for developers who want a faster workflow without leaving the command li
 ### Quick Install (curl)
 
 ```bash
-curl -L https://github.com/shrikant23codes/gitadd-tui/releases/latest/download/gitadd-tui -o gitadd-tui && chmod +x gitadd-tui && sudo mv gitadd-tui /usr/local/bin/
+curl -fsSL https://raw.githubusercontent.com/shrikant23codes/gitadd-tui/main/install.sh | bash
 ```
 
 ### Install from source (requires Go)
